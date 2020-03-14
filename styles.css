@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Inter:400,700,900&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+header,
+main,
+footer {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+
+main {
+    margin-bottom: 2em;
+}
+
+main>p {
+    margin: 5px;
+}
+
+.icon {
+    padding: 0px 20px;
+    margin: 0px 10px;
+}
+
+.twtFilter {
+    filter: invert(49%) sepia(94%) saturate(1438%) hue-rotate(175deg) brightness(96%) contrast(98%);
+}
+
+.igFilter {
+    filter: invert(30%) sepia(62%) saturate(1738%) hue-rotate(320deg) brightness(103%) contrast(88%);
+}
+
+u {
+    color: rgb(160, 4, 4);
+}
