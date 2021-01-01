@@ -12,9 +12,13 @@ footer {
     text-align: center;
 }
 
-
 main {
     margin-bottom: 2em;
+}
+
+h2 {
+   font-size: 1rem;
+   font-weight: normal;
 }
 
 main>p {
